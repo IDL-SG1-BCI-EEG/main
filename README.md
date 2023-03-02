@@ -1,4 +1,4 @@
-#Electroencephalography (EEG) data classification for Brain Computer Interface (BCI).
+# Electroencephalography (EEG) data classification for Brain Computer Interface (BCI).
 
 ## Introduction
 
